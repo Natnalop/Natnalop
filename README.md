@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Natnalop/Natnalop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Natnalop;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natnalop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+> 🎓 Пссс... одногруппник! 🕵️‍♂️ [Актуалочка ТУТ](https://t.me/Natnalop) 👈
+
+## 🚀 База
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnalop&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+> Vercel иногда не работает =(
+
+</div>
+
+## 🐍 Snake animation
+
+<div align="center">
+
+![snake gif](https://github.com/Natnalop/Natnalop/blob/output/github-contribution-grid-snake.svg)
+
+</div>
